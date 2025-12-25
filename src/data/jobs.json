@@ -1,0 +1,103 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Frontend Developer Intern",
+    "company": "InnoSoft",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "location": "Remote",
+    "duration": "3 Months",
+    "salary": "15,000",
+    "tags": ["React", "JavaScript", "UI"]
+  },
+  {
+    "id": 2,
+    "title": "Software Engineer Intern",
+    "company": "TechNova",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+    "location": "Bangalore",
+    "duration": "6 Months",
+    "salary": "20,000",
+    "tags": ["Node.js", "API", "Backend"]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer Intern",
+    "company": "CodeCrafters",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "location": "Pune",
+    "duration": "4 Months",
+    "salary": "18,000",
+    "tags": ["React", "Node", "MongoDB"]
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design Intern",
+    "company": "Designify",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "location": "Mumbai",
+    "duration": "3 Months",
+    "salary": "12,000",
+    "tags": ["Figma", "UI", "UX"]
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Developer Intern",
+    "company": "AppNest",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "location": "Remote",
+    "duration": "6 Months",
+    "salary": "22,000",
+    "tags": ["React Native", "Android", "iOS"]
+  },
+  {
+    "id": 6,
+    "title": "Data Analyst Intern",
+    "company": "DataSpark",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "location": "Hyderabad",
+    "duration": "4 Months",
+    "salary": "16,000",
+    "tags": ["Python", "SQL", "Analytics"]
+  },
+  {
+    "id": 7,
+    "title": "Machine Learning Intern",
+    "company": "AI Labs",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "location": "Bangalore",
+    "duration": "6 Months",
+    "salary": "25,000",
+    "tags": ["Python", "ML", "AI"]
+  },
+  {
+    "id": 8,
+    "title": "Cyber Security Intern",
+    "company": "SecureX",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "salary": "17,000",
+    "tags": ["Security", "Networking", "Linux"]
+  },
+  {
+    "id": 1,
+    "title": "Frontend Developer Intern",
+    "company": "InnoSoft",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "location": "Remote",
+    "duration": "3 Months",
+    "salary": "15,000",
+    "tags": ["React", "JavaScript", "UI"]
+  },
+  {
+    "id": 2,
+    "title": "Software Engineer Intern",
+    "company": "TechNova",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+    "location": "Bangalore",
+    "duration": "6 Months",
+    "salary": "20,000",
+    "tags": ["Node", "API", "Backend"]
+  }
+]
