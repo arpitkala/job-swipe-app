@@ -63,4 +63,5 @@ Users can swipe left to skip a job, swipe right to show interest, view job detai
 
 ## Links
 - **GitHub Repo:** https://github.com/arpitkala/job-swipe-app
+- **Deployment Link:** https://job-swipe-app-kappa.vercel.app/
 
